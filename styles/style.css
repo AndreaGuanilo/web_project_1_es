@@ -29,7 +29,7 @@
   margin-left: 64px;
   line-height: 96px;
   font-size: 102px;
-  font-weight: bold; 
+  font-weight: bold;
   z-index: 3;
 }
 .header__subtitle {
@@ -161,7 +161,6 @@
   font-size: 120px;
   font-weight: bold;
   position: relative;
-  z-index: 2;
 }
 .feynman__subtitle {
   line-height: 51px;
