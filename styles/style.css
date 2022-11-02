@@ -281,7 +281,6 @@
   padding: 0%;
   list-style: none;
   position: relative;
-  border: solid #8D1616;
 }
 .logo logo_place_footer {
   position: absolute;
@@ -295,7 +294,7 @@
   line-height: 25px;
   font-size: 18px;
   font-weight: normal;
-  margin-top: 18px;
+  margin-top: 118px;
   margin-bottom: 18px;
   color: #F2F2F2;
 }
