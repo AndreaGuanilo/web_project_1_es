@@ -146,6 +146,12 @@
   font-size: 18px;
   font-weight: normal;
 }
+.table__text_source {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  margin-top: 20px;
+}
 /* ####### FEYNMAN #######*/
 .feynman {
   position: relative;
@@ -275,6 +281,7 @@
   padding: 0%;
   list-style: none;
   position: relative;
+  border: solid #8D1616;
 }
 .logo logo_place_footer {
   position: absolute;
