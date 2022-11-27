@@ -1,6 +1,6 @@
 # :open_file_folder: web_project_1_es
 
-Proyecto del primer sprint de Practicum.
+Continuación del proyecto del primer sprint de Practicum. Esta actualización corresponde al segundo sprint.
 
 ## :clipboard: Aprender a aprender
 
