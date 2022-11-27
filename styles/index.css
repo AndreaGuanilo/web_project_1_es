@@ -79,7 +79,7 @@
 /*#########KAUFMAN#########*/
 
 @import url(../blocks/kaufman/kaufman.css);
-@import url(../blocks/section-title/_theme-dark/section-title_theme-dark.css);
+@import url(../blocks/section-title/_theme_dark/section-title_theme_dark.css);
 @import url(../blocks/section-subtitle/_theme-dark/section-subtitle_theme-dark.css);
 @import url(../blocks/table/_theme-dark/table_theme-dark.css);
 @import url(../blocks/table/__cell/_theme-dark/table__cell_theme-dark.css);
