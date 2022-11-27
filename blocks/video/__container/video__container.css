@@ -1,0 +1,8 @@
+.video__container {
+    width: 1050px;
+    height: 316px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
